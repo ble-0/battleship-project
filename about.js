@@ -18,7 +18,7 @@ const About = () => {
         <p><em>Example of a typical Battleship game grid.</em></p>
       </div>
       
-      <h3>Game Rules:</h3>
+      <h3>Game Rules & Instructions:</h3>
       <ul>
         <li>The game is played on a 5x5 grid.</li>
         <li>Each player has three ships, each of length 3.</li>
